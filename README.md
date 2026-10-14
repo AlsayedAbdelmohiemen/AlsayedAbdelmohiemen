@@ -55,6 +55,7 @@
 
 | Project | Highlights & Tech Stack | Link |
 | :--- | :--- | :---: |
+| 🌿 **Plant&** | Smart Botanical & Weather App • **AI Plant Recognition** model, real-time weather recommendations, Firebase Auth/Google Sign-In, BLoC/Cubit, and AR/EN localization. | [View Code](https://github.com/AlsayedAbdelmohiemen/plant_project) |
 | 🛟 **HydroSaveX** | AI Drowning Detection & Emergency Alerts • Real-time triage, Edge AI pipeline (YOLOv8 + Jetson), FCM push notifications, multi-role access. | [View Code](https://github.com/AlsayedAbdelmohiemen/Hydrosavex) |
 | 🎬 **My-Film** | Movie Discovery & Trailers App • **Clean Architecture** (Domain, Data, Presentation) + **BLoC**, TMDB API, Hive NoSQL offline caching, YouTube Player. | [View Code](https://github.com/AlsayedAbdelmohiemen/My-Film) |
 | 🛍️ **S-Store** | Full E-Commerce Platform • Supabase (PostgreSQL, Row-Level Security, Auth), GetX routing & state, Wishlist, Cart & Checkout. | [View Code](https://github.com/AlsayedAbdelmohiemen/s-store) |
